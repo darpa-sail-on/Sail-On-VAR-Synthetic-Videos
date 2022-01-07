@@ -1,0 +1,27 @@
+Female:
+1. Army Fatigues
+2. Vault-Tec Lab Coat
+3. Vault 111 Jumpsuit - New
+4. Bottle and Cappy Shirt & Jeans
+5. Casual Outfit
+6. Clean Tan Suit
+7. Corset
+8. Laundered Blue Dress
+9. Laundered Green Dress
+10. Summer Shorts
+11. Military Fatigues
+12. Mechanic Jumpsuit
+
+Male:
+1. Army Fatigues
+2. Father's Lab Coat
+3. Vault 111 Jumpsuit - New
+4. Bottle and Cappy Shirt & Jeans
+5. Casual Outfit
+6. Checkered Shirt and Slacks
+7. Clean Black Suit
+8. Clean Blue Suit
+9. Clean Grey Suit
+10. Covert Sweater Vest
+11. Laundered Loungewear
+12. Mechanic Jumpsuit
