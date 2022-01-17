@@ -3,6 +3,7 @@ Sleeping-{charnum}-{gender}-{race}-{location}-{perspective}-{clothing}
 Location-
 S-Solitude
 V-Valtheim Towers
+VN- Valtheim Towers Night
 
 Race:
 B-Breton
