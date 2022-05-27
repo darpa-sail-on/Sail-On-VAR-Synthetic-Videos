@@ -1,0 +1,55 @@
+Director Mode Settings:
+	- Time of Day: Midday
+	- Weather: Clear
+	- Wanted Status: Disabled
+	- Pedestrian Density: Low
+	- Vehicle Density: None
+	- Invincibility: On
+	- Clear Area: On
+
+Water Action Models:
+
+1 white male: 
+	- Actor: Beach Bums > The Day Tripper
+
+2 white female:
+	- Actor: Beach Bums > Boardwalker
+
+3 black male:
+	- Sex: male
+	- Parents: mother Giselle, father Gabriel
+	- Resemblance: 100% father, 0% mother
+	- Skin Tone: 0% mother, 100% father
+	- Hair: Buzzcut, color #24
+	- Eye Color: Dark Brown
+	- Apparel: Beach, The Skimpy
+
+4 black female:
+	- Sex: female
+	- Parents: mother Brianna, father Joshua
+	- Resemblance: 50% mother, 50% father
+	- Skin Tone: 50% mother, 50% father  
+	- Hair: Twisted Bob, color #23
+	- Eye Color: Dark Brown
+	- Apparel: Beach, The Lifeguard
+
+5 hispanic male: 
+	- Sex: male
+	- Parents: mother Ava, father Juan
+	- Resemblance: 50% mother, 50% father
+	- Skin Tone: 0% mother, 100% father
+	- Hair: Slicked, color #20
+	- Facial Hair: Scruffy, color #20
+	- Skin Aging: Middle Aged
+	- Eye Color: Light Brown
+	- Apparel: Beach, The Bare Chest
+
+6 asian female: 
+	- Sex: female
+	- Parents: mother Zoe, father Kevin
+	- Resemblance: 50% mother, 50% father
+	- Skin Tone: 50% mother, 50% father
+	- Hair: Loose Tied, color #1
+	- Eyebrows: Femme, color #1
+	- Eye Color: Dark Brown
+	- Apparel: Beach, The Bather
