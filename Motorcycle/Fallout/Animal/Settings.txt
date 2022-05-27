@@ -1,0 +1,14 @@
+Animal_Motorcycle-{animal}-{location}-{direction}-{bike color}-{perspective}-{drive direction}
+
+Animals:
+b-bear suit
+g-gorilla suit
+c-cat person
+
+Locations:
+s-Sanctuary (town)
+i-Island (Spectacle Island)
+
+Bike colors:
+1-black
+2-red
