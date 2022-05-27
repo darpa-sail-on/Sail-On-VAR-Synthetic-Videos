@@ -1,0 +1,23 @@
+Walking-{character number}-{gender}-{race}-{perspective}-{location}-{clothing} 
+
+Location-
+FMS-Forest (Meekos Shack)
+FMSN-Forest (Meekos Shack) Night
+FMSR- Forest (Meekos Shack) Rain
+
+Race:
+B-Breton
+N-Nord
+R-Redguard
+
+Clothes
+1.Barkeepers Clothes 
+2.Barkeepers Clothes(2)
+3.Belted Tunic(2)
+4.Clothes
+5.Clothes
+6.Clothes
+7.Fine Clothes
+8.Fine Clothes
+9.Merchants Clothes
+10.Merchants Clothes
