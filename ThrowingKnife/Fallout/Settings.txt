@@ -1,0 +1,30 @@
+ThrowingKnife_{character number}{gender}{location}{direction}{clothing}
+
+Clothing:
+Male:
+1. Army Fatigues
+2. Vault-Tec Lab Coat
+3. Vault 111 Jumpsuit - New
+4. Covert Sweater Vest
+5. Laundered Loungewear
+6. Mechanic Jumpsuit
+7. Military Fatigues
+8. Casual Outfit
+9. Checkered Shirt and Slacks
+10. Clean Black Suit
+11. Clean Blue Suit
+12. Clean Gray Suit
+
+Female:
+1. Army Fatigues
+2. Vault-Tec Lab Coat
+3. Vault 111 Jumpsuit - New
+4. Summer Shorts
+5. Mechanic Jumpsuit
+6. Clean Tan Suit
+7. Military Fatigues
+8. Casual Outfit
+9. Nuka World Shirt and Jeans
+10. Corset
+11. Laundered Blue Dress
+12. Laundered Green Dress
