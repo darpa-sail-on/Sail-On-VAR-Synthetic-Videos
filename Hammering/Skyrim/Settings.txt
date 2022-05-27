@@ -1,0 +1,5 @@
+CharacterModel_ClothesDirectionBackground_sN.mp4
+Clothes: (b)rown/(w)hite
+Directions: (c)lose/(f)ar
+Backgrounds: 1-4
+N: 0-3
