@@ -1,0 +1,8 @@
+Naming Conventions for Archery videos:
+
+Letters indicate qualities about the video in order:
+PresetName
+L/H - Long Bow/Hunting Bow
+C/M/F - Close/Medium/Far zoom
+H/M/L - High/Middle/Low Angle
+B/W - Brown/White Clothes
