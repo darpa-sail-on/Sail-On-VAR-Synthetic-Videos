@@ -1,0 +1,4 @@
+CharacterModel_ClothesBackground_sN.mp4
+Clothes: (b)rown/(w)hite
+Backgrounds: 1-4
+N: 0-1
