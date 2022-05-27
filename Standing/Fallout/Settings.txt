@@ -1,0 +1,9 @@
+Standing_forest:
+CharacterModel_ClothesBackground.mp4
+Clothes: (b)rown/(w)hite
+Backgrounds: 1/2/3/4
+
+Standing_town:
+CharacterModel_ClothesBackground.mp4
+Clothes: (b)rown/(w)hite
+Backgrounds: 1/2/3/4

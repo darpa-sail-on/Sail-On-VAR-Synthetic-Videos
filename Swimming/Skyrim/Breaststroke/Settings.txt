@@ -1,0 +1,21 @@
+Swimming-{character number}-{gender}-{race}-{perspective}-{location}
+
+Location-
+for - Forest
+mill - Mill
+sol - Solitude Bay
+
+Race:
+B-Breton
+N-Nord
+R-Redguard
+
+Perspective:
+hir-high angle, zoomed in, right
+hil-high angle, zoomed in, left
+hol-high angle, zoomed out, left
+hor-high angle, zoomed out, right
+lol-low angle, zoomed out, left
+lor-low angle, zoomed out, right
+lil-low angle, zoomed in, left
+lir-low angle, zoomed in, right

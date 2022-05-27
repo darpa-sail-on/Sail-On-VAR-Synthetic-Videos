@@ -1,0 +1,22 @@
+Standing_town_side:
+CharacterModel_ClothesDirectionBackground.mp4
+Clothes: (b)rown/(w)hite
+Directions: (l)eft/(r)ight
+Backgrounds: 1-4
+
+Standing_town:
+CharacterModel_ClothesBackgroundAngle.mp4
+Clothes: (b)rown/(w)hite
+Backgrounds: 1/2
+Angles: 1/2
+
+Standing_forest_side:
+CharacterModel_ClothesDirectionBackground.mp4
+Clothes: (b)rown/(w)hite
+Directions: (l)eft/(r)ight
+Backgrounds: (l)ake/(f)orest/(m)ountain/(r)ock
+
+Standing_forest:
+CharacterModel_ClothesBackground.mp4
+Clothes: (b)rown/(w)hite
+Backgrounds: 1-4

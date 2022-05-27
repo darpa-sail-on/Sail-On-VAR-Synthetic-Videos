@@ -1,0 +1,34 @@
+Director Mode Settings:
+	- Time of Day: Midday
+	- Weather: Clear
+	- Wanted Status: Disabled
+	- Pedestrian Density: Low
+	- Vehicle Density: None
+	- Invincibility: On
+	- Clear Area: On
+
+Models:
+
+1 black male:
+	- Actor: Downtown > Male > Hooded
+
+2 black female:
+	- Actor: Uptown > Female > ULSA
+
+3 white male:
+	- Actor: Sports > Male > Golf Senior 
+
+4 white female:
+	- Actor: Professionals > Female > Public Relations
+
+5: hispanic male: 
+	- Actor: Transport > Male > Go Postal Driver 
+
+6: hispanic female:
+	- Actor: Gangs > Female > Vagos 
+
+7: asian male:
+	- Actor: Sports > Male > Jogger
+
+8: asian female:
+	- Actor: Professionals > Female > Office Cool
