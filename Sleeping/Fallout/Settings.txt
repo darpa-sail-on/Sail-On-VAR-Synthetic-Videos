@@ -1,3 +1,9 @@
+Sleeping_{charnum}{gender}{location}{perspective}{clothing}
+
+Location:
+v-vault 81
+s-starlight drive in
+
 Female:
 1. Army Fatigues
 2. Vault-Tec Lab Coat
