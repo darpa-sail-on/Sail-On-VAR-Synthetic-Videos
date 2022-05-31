@@ -1,0 +1,306 @@
+{
+   "actor" : {
+      "hairColor" : 1053202,
+      "headTexture" : "Skyrim.esm|0D0727",
+      "weight" : 100
+   },
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "Actors\\Character\\Male\\MaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "Actors\\Character\\RedGuardMale\\MaleHead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "Actors\\Character\\Male\\MaleHead_sk.dds"
+      },
+      {
+         "index" : 3,
+         "texture" : "Actors\\Character\\Male\\MaleHeadDetail_Rough01.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "Actors\\Character\\Male\\MaleHead_S.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 333358,
+         "formIdentifier" : "Skyrim.esm|05162E",
+         "type" : 0
+      },
+      {
+         "formId" : 333361,
+         "formIdentifier" : "Skyrim.esm|051631",
+         "type" : 1
+      },
+      {
+         "formId" : 332803,
+         "formIdentifier" : "Skyrim.esm|051403",
+         "type" : 2
+      },
+      {
+         "formId" : 863920,
+         "formIdentifier" : "Skyrim.esm|0D2EB0",
+         "type" : 3
+      },
+      {
+         "formId" : 147425,
+         "formIdentifier" : "Skyrim.esm|023FE1",
+         "type" : 5
+      },
+      {
+         "formId" : 815469,
+         "formIdentifier" : "Skyrim.esm|0C716D",
+         "type" : 7
+      },
+      {
+         "formId" : 546143,
+         "formIdentifier" : "Skyrim.esm|08555F",
+         "type" : 8
+      }
+   ],
+   "modNames" : [ "Skyrim.esm" ],
+   "mods" : [
+      {
+         "index" : 0,
+         "name" : "Skyrim.esm"
+      }
+   ],
+   "morphs" : {
+      "custom" : [
+         {
+            "name" : "RANs_Weight",
+            "value" : -0.009999999776482582
+         }
+      ],
+      "default" : {
+         "morphs" : [
+            0.2000000029802322,
+            -0.699999988079071,
+            0.5600000023841858,
+            0.699999988079071,
+            -0.699999988079071,
+            0.239999994635582,
+            0.6000000238418579,
+            -0.300000011920929,
+            -0.05999999865889549,
+            -0.9200000166893005,
+            1,
+            1,
+            0.1000000014901161,
+            0.6000000238418579,
+            0.6600000262260437,
+            0.4000000059604645,
+            0.2599999904632568,
+            -0.300000011920929,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 1, 4294967295, 20, 4 ]
+      },
+      "sculpt" : null,
+      "sculptDivisor" : 10000
+   },
+   "tintInfo" : [
+      {
+         "color" : 4281344278,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 1495346002,
+         "index" : 1,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleUpperEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleLowerEyeSocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_FrownLines.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 6,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadRedguard_Lips.dds"
+      },
+      {
+         "color" : 1111688193,
+         "index" : 7,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHead_Nose.dds"
+      },
+      {
+         "color" : 1111688193,
+         "index" : 8,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_ForeHead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadHuman_Neck.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 11,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_01.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 12,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_02.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 13,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_03.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 14,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_04.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 15,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_05.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 16,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_06.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 17,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_07.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 18,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_08.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 19,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_09.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 20,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadWarPaint_10.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 21,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadRedguardWarPaint_01.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 22,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadRedguardWarPaint_02.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 23,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadRedguardWarPaint_03.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 24,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadRedguardWarPaint_04.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 25,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadRedguardWarPaint_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadBothiahTattoo_01.dds"
+      },
+      {
+         "color" : 2466250752,
+         "index" : 27,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\RedGuardMaleEyeLinerStyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\MaleHeadDirt_03.dds"
+      }
+   ],
+   "transforms" : [
+      {
+         "firstPerson" : false,
+         "keys" : [
+            {
+               "name" : "RSMPlugin",
+               "values" : [
+                  {
+                     "data" : 0.9700000286102295,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Head [Head]"
+      },
+      {
+         "firstPerson" : true,
+         "keys" : [
+            {
+               "name" : "RSMPlugin",
+               "values" : [
+                  {
+                     "data" : 0.9700000286102295,
+                     "index" : 0,
+                     "key" : 30,
+                     "type" : 4
+                  }
+               ]
+            }
+         ],
+         "node" : "NPC Head [Head]"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}
